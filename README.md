@@ -1,6 +1,6 @@
 # 🌿 Potato Disease Detection
 
-** Check our Hete--> https://potato-disease-detection-032.streamlit.app/
+Check out Here--> https://potato-disease-detection-032.streamlit.app/
 
 ## 🔍 Overview
 
