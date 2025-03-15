@@ -1,5 +1,7 @@
 # 🌿 Potato Disease Detection
 
+** Check our Hete--> https://potato-disease-detection-032.streamlit.app/
+
 ## 🔍 Overview
 
 An **AI-powered system** designed to detect and classify potato leaf diseases using **deep learning**. The model categorizes leaves into:
